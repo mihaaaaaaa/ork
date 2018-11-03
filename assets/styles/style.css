@@ -1,0 +1,11 @@
+.ork {
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.ork-img {
+	width: 300px;
+	height: 300px;
+}
